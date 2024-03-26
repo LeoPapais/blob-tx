@@ -1,0 +1,21 @@
+{
+  "name": "gigablob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "5.2.1",
+    "@ethereumjs/vm": "7.2.1",
+    "axios": "^1.6.8",
+    "c-kzg": "^2.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "solc": "^0.8.25"
+  }
+}
